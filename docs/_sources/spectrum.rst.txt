@@ -1,0 +1,7 @@
+Spectrum Module
+===============
+
+.. automodule:: astrospectra.spectrum
+   :members:
+   :undoc-members:
+   :show-inheritance:

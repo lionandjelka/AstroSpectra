@@ -1,0 +1,7 @@
+Gaussian Fit Module
+===================
+
+.. automodule:: astrospectra.gaussian_fit
+   :members:
+   :undoc-members:
+   :show-inheritance:
